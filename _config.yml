@@ -1,12 +1,19 @@
-title: Brume
-author: Aigars Dzerviniks
-description: It's simple. It's easy to use. It's a Jekyll theme.
+title: Isaac's Blog
+author: Isaac Hwang
+description: Where I put my musings.
 
 highlighter: null
 permalink: /:title
 
 url:
 baseurl:
+
+color_scheme: amber
+
+#
+plugins:
+  - jekyll-gravatar
+#
 
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
